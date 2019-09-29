@@ -141,7 +141,7 @@ div.gallery {
     position: relative;
     bottom: 70px;
   }
-
+/* code for layout of form */
   input[type=text], select {
     width: 100%;
     padding: 12px 20px;
@@ -151,7 +151,7 @@ div.gallery {
     border-radius: 4px;
     box-sizing: border-box;
   }
-  
+  /* code for submit button */
   input[type=submit] {
     width: 200px;
     background-color:#4aaaa5;
@@ -162,7 +162,7 @@ div.gallery {
     border-radius: 4px;
     cursor: pointer;
   }
-  
+  /* styling code */
   input[type=submit]:hover {
     background-color: blue;
   }
